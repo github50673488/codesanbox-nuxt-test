@@ -1,7 +1,7 @@
 <template>
   <section>
     <div>
-      <h1 class="title">hello liu!!</h1>
+      <h1 class="title">It work！</h1>
     </div>
   </section>
 </template>
